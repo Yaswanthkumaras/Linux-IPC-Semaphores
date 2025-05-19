@@ -1,8 +1,8 @@
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
-NAME:M.RADHIMEENA
-DEPT:CSE
-REG NO: 212223040159
+NAME:Yaswanth Kumar A S
+DEPT:AIDS
+REG NO: 212224230310
 
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
